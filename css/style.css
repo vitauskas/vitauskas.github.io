@@ -71,7 +71,8 @@ body {
   background-size: cover; }
   .masthead .intro-body {
     display: table-cell;
-    vertical-align: middle; }
+    vertical-align: middle; 
+  }
     .masthead .intro-body .brand-heading {
       font-size: 50px; }
 			.brand-heading h1{
@@ -179,7 +180,7 @@ body {
 }
 
 .card-title h5 {  
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 700;
 	/*font-style: bold;*/
 }
@@ -284,8 +285,8 @@ font-family: 'Comfortaa', cursive;
 .counts-title h5 {  
   font-size: 40px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 5px;
+  /*text-transform: uppercase;*/
+  /*letter-spacing: 5px;*/
 }
 
 .counts-title p {  
@@ -300,7 +301,7 @@ font-family: 'Comfortaa', cursive;
 }
 
 .benefits__number {
-  font-size: 50px;
+  font-size: 40px;
   color: blue;
   font-weight: 700;
   font-family: 'Playfair Display', serif;
@@ -323,15 +324,15 @@ font-family: 'Comfortaa', cursive;
 .team-title h5 {
    font-size: 40px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 5px;
+  /*text-transform: uppercase;*/
+  /*letter-spacing: 5px;*/
 }
 
 .team-title p {
- font-size: 30px;
-  font-weight: 600;
+ font-size: 20px;
+  /*font-weight: 600;*/
   color: #000;
-  letter-spacing: 5px;
+  /*letter-spacing: 5px;*/
   background-color: #999;
   color: #fff;
   border-radius: 20px;
@@ -371,19 +372,19 @@ font-family: 'Comfortaa', cursive;
 .contact-title h5 {
    font-size: 40px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 5px;
+  /*text-transform: uppercase;*/
+  /*letter-spacing: 5px;*/
 }
 
 .contact-title p {
- font-size: 30px;
-  font-weight: 600;
+ font-size: 20px;
+  font-weight: 700;
   color: #000;
-  letter-spacing: 5px;
+  /*letter-spacing: 5px;*/
   background-color: #999;
   color: #fff;
   border-radius: 20px;
-  width: 500px;
+  width: 300px;
   margin: 0 auto;
 }
 
